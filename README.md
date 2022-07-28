@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-**noumannbaig/noumannbaig** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**I am Nouman Baig, A devoted and diligent Programmer with expertise in Full stack development. The frameworks I'm comfortable working in is .net core and node.js for backend development and react.js for Front-end development
 
 Here are some ideas to get you started:
 
