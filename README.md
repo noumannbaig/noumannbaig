@@ -6,10 +6,10 @@ I am Nouman Baig, A devoted and diligent Programmer with expertise in Full stack
   <img src="https://media.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif" width="300"/>
 </div>
 <div id="badges" align="center">
-  <a href="  https://www.linkedin.com/in/nouman-baig-3893441b6/">
+  <a href="https://www.linkedin.com/in/nouman-baig-3893441b6/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-
+</div>
 <h1>- 🔭 I’m currently working on</h1>
 
 - 🌱 I’m currently learning ...
