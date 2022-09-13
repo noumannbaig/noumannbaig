@@ -17,7 +17,7 @@ AREAS OF INTEREST
 •	Machine Learning
 
 EXPERIENCE/PROJECTS
-•	HRM: Employee Management system using .net core as a backend and react js as a front-end
+•	<b>HRM:</b> Employee Management system using .net core as a backend and react js as a front-end
 
 •	FITNESS APPLICATION FLUTTER: Fitkit is a fitness application designed for users who want to maintain a healthy figure and achieve a healthy lifestyle. The framework used to develop this application was flutter.
 •	MESSAGING APPLICATION FLUTTER: Circle was the messaging application developed in flutter to stay connected with your loved ones. It was basically a whatsapp clone with additional functionality of chatbot.
