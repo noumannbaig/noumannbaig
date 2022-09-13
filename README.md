@@ -11,11 +11,49 @@ I am Nouman Baig, A devoted and diligent Programmer with expertise in Full stack
   </a>
 </div>
 <h1>- 🔭 I’m currently working on</h1>
+AREAS OF INTEREST
+•	Mobile App development 
+•	Web development
+•	Machine Learning
 
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+EXPERIENCE/PROJECTS
+•	HRM: Employee Management system using .net core as a backend and react js as a front-end
+
+•	FITNESS APPLICATION FLUTTER: Fitkit is a fitness application designed for users who want to maintain a healthy figure and achieve a healthy lifestyle. The framework used to develop this application was flutter.
+•	MESSAGING APPLICATION FLUTTER: Circle was the messaging application developed in flutter to stay connected with your loved ones. It was basically a whatsapp clone with additional functionality of chatbot.
+•	WEBSITE FOR NUMERICAL METHODS: React web app to for solving numerical methods problem
+
+SKILLS                                                           
+•	Web development (React & .net core)
+•	Mobile development (Flutter)
+•	Game Development (unity 3d)
+•	Machine learning
+•	Github 
+
+
+PROGRAMING LANGUAGES                                                        
+
+•	C/C++
+•	Python
+•	C#
+•	Visual Basic
+•	Dart
+
+FRAMEWORKS                                                        
+•	.NET CORE
+•	.NET FRAMEWORK
+•	FLUTTER
+•	REACT JS
+•	NODE JS
+DATABASES I USE                                                  
+•	SQL
+•	Firebase
+•	Aws (Amazon Web Service)
+•	Azure
+
+TOOLS                                                       
+•	VS CODE
+•	UNITY 3D
+•	VISUAL STUDIO
+
+
