@@ -11,49 +11,50 @@ I am Nouman Baig, A devoted and diligent Programmer with expertise in Full stack
   </a>
 </div>
 <h1>- 🔭 I’m currently working on</h1>
-AREAS OF INTEREST
-•	Mobile App development 
-•	Web development
-•	Machine Learning
+AREAS OF INTEREST <br>
+•	Mobile App development <br>
+•	Web development<br>
+•	Machine Learning<br>
 
-EXPERIENCE/PROJECTS
-•	<b>HRM:</b> Employee Management system using .net core as a backend and react js as a front-end
+EXPERIENCE/PROJECTS <br>
+•	<b>HRM:</b> Employee Management system using .net core as a backend and react js as a front-end <br>
 
-•	FITNESS APPLICATION FLUTTER: Fitkit is a fitness application designed for users who want to maintain a healthy figure and achieve a healthy lifestyle. The framework used to develop this application was flutter.
-•	MESSAGING APPLICATION FLUTTER: Circle was the messaging application developed in flutter to stay connected with your loved ones. It was basically a whatsapp clone with additional functionality of chatbot.
-•	WEBSITE FOR NUMERICAL METHODS: React web app to for solving numerical methods problem
+•	<b>FITNESS APPLICATION FLUTTER:</b> Fitkit is a fitness application designed for users who want to maintain a healthy figure and achieve a healthy lifestyle. The framework used to develop this application was flutter.<br>
+•	<b>MESSAGING APPLICATION FLUTTER:<b> Circle was the messaging application developed in flutter to stay connected with your loved ones. It was basically a whatsapp clone with additional functionality of chatbot.<br>
+•	<b>WEBSITE FOR NUMERICAL METHODS:</b> React web app to for solving numerical methods problem<br>
 
-SKILLS                                                           
-•	Web development (React & .net core)
-•	Mobile development (Flutter)
-•	Game Development (unity 3d)
-•	Machine learning
-•	Github 
+<b><b>SKILLS</b></b><br>                                                           
+•	Web development (React & .net core)<br>
+•	Mobile development (Flutter)<br>
+•	Game Development (unity 3d)<br>
+•	Machine learning<br>
+•	Github <br>
 
 
-PROGRAMING LANGUAGES                                                        
+<b>PROGRAMING LANGUAGES <b> <br>                                                       
 
-•	C/C++
-•	Python
-•	C#
-•	Visual Basic
-•	Dart
+•	C/C++<br>
+•	Python<br>
+•	C#<br>
+•	Visual Basic<br>
+•	Dart<br>
 
-FRAMEWORKS                                                        
-•	.NET CORE
-•	.NET FRAMEWORK
-•	FLUTTER
-•	REACT JS
-•	NODE JS
-DATABASES I USE                                                  
-•	SQL
-•	Firebase
-•	Aws (Amazon Web Service)
-•	Azure
+<b>FRAMEWORKS   <b> <br>                                                     
+•	.NET CORE<br>
+•	.NET FRAMEWORK<br>
+•	FLUTTER<br>
+•	REACT JS<br>
+•	NODE JS<br><br>
 
-TOOLS                                                       
-•	VS CODE
-•	UNITY 3D
-•	VISUAL STUDIO
+<b>DATABASES I USE    <b>                                              
+•	SQL <br>
+•	Firebase<br>
+•	Aws (Amazon Web Service)<br>
+•	Azure<br>
+
+<b>TOOLS<b>                                                       
+•	VS CODE <br>
+•	UNITY 3D<br>
+•	VISUAL STUDIO<br>
 
 
