@@ -12,8 +12,9 @@ Results-driven software engineer with a strong foundation in coding, problem-sol
 </div>
 <h1>- 🔭 I’m currently working on</h1>
 AREAS OF INTEREST <br>
-•	Mobile App development <br>
-•	Web development<br>
+•	Web development<be>
+•	Mobile development<be>
+•	Desktop development<be>
 •	Machine Learning<br>
 
 EXPERIENCE/PROJECTS <br>
