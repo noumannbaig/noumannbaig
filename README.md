@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-I am Nouman Baig, A devoted and diligent Programmer with expertise in Full stack development. The frameworks I'm comfortable working in is .net core and node.js for backend development and react.js for Front-end development
+Results-driven software engineer with a strong foundation in coding, problem-solving, and collaboration. Proven expertise in developing scalable solutions and optimizing performance in dynamic environments. Passionate about staying current with emerging technologies to drive innovation. Proficient in multiple programming languages and committed to delivering high-quality software solutions. Collaborative team player with excellent communication skills, consistently meeting project milestones.
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif" width="300"/>
 </div>
