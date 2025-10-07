@@ -2,7 +2,7 @@
 
 🎯 **Backend-Focused Software Engineer | Cloud-Native Solutions | Microservices Enthusiast**
 
-I’m a results-driven Software Engineer with over 3 years of experience building scalable, high-performance applications across cloud platforms. I specialize in backend development with a strong foundation in C#, .NET Core, Python (Django, FastAPI), and cloud-native technologies including AWS and Azure.
+I’m a results-driven Software Engineer with over 8+ years of experience building scalable, high-performance applications across cloud platforms. I specialize in backend development with a strong foundation in C#, .NET Core, Python (Django, FastAPI), and cloud-native technologies including AWS and Azure.
 
 My focus is on writing clean, secure, and efficient code, deploying production-ready services, and solving complex backend challenges. I’m passionate about building impactful systems — from microservices that handle millions of records, to AI-driven solutions that optimize workflows and decision-making.
 
