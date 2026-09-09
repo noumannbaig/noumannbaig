@@ -631,26 +631,22 @@ AI is powerful, but good engineering still matters.
 
 ---
 
-# 📈 GitHub Activity
+## 📊 GitHub Analytics
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=noumannbaig&show_icons=true&theme=transparent&hide_border=true" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=noumannbaig&theme=transparent&hide_border=true" />
+<img src="./profile/stats.svg" width="48%" />
+<img src="./profile/top-langs.svg" width="48%" />
 
 </div>
 
----
-
-# 🧮 GitHub Contribution Graph
+<br>
 
 <div align="center">
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=noumannbaig\&theme=github-compact\&hide_border=true)
+<img src="https://github-profile-trophy.vercel.app/?username=noumannbaig&theme=flat&no-frame=true&no-bg=true&margin-w=8" />
 
 </div>
-
 ---
 
 # 💻 Current Focus
