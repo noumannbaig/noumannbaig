@@ -1,84 +1,315 @@
 # 👋 Hi, I'm Nouman Baig
 
-### 🚀 Backend-Focused Software Engineer | AI & Cloud-Native Systems | Distributed Architecture | Microservices
+### 🤖 AI Engineer | LLMs | RAG | AI Agents | Generative AI | Python | Cloud
 
-I’m a **Backend-Focused Software Engineer with 5+ years of professional experience** designing, building, and deploying scalable software systems across **.NET, Python, AWS, Azure, microservices, APIs, distributed systems, and AI-powered applications**.
+I’m an **AI Engineer with 5+ years of professional software engineering experience**, focused on building **AI-powered applications, LLM systems, RAG pipelines, AI agents, intelligent automation, and production-ready AI products**.
 
-My engineering focus is simple:
+My focus is simple:
 
-> **Build backend systems that are reliable, scalable, secure, observable, and capable of solving real-world problems.**
+> **Build AI systems that solve real problems, work reliably with real data, and are ready for production.**
 
-I work primarily on backend architecture, API development, cloud-native systems, data-intensive applications, integrations, automation, and AI-enabled products.
+I work across the modern AI stack, from **LLM integrations and prompt engineering to RAG, vector search, AI agents, AI automation, data pipelines, APIs, cloud infrastructure, and production deployment**.
 
-Over the years, I’ve worked on systems ranging from **high-throughput APIs and microservices to IoT platforms, enterprise applications, data pipelines, carbon-footprint platforms, financial integrations, and AI-driven solutions**.
-
-I enjoy taking complex requirements, breaking them into well-defined engineering problems, and turning them into maintainable production systems.
+I enjoy taking an AI idea, breaking it into practical engineering problems, and turning it into a working product.
 
 ---
 
-## 🧠 What I Build
+# 🧠 What I Build
 
-I specialize in building systems around:
+I specialize in building:
 
-* 🏗️ **Backend & Distributed Systems**
-* ⚡ **High-performance APIs**
-* 🔌 **Microservices & Event-Driven Architecture**
-* 🤖 **AI-powered applications & integrations**
-* ☁️ **Cloud-native applications**
-* 📊 **Data-intensive systems & ETL pipelines**
-* 🔄 **Third-party & enterprise integrations**
-* 📡 **Real-time systems & WebSockets**
-* 🌐 **REST & GraphQL APIs**
-* 🔐 **Secure authentication & authorization**
-* 🚀 **CI/CD & cloud deployments**
-* 🗄️ **SQL & NoSQL data platforms**
-* 📈 **Scalable data processing**
-* 🧪 **Automated testing & reliability engineering**
+* 🤖 **LLM-powered applications**
+* 🔎 **RAG & knowledge-based AI systems**
+* 🧠 **AI agents & agentic workflows**
+* 💬 **AI chatbots & intelligent assistants**
+* ⚙️ **AI automation & intelligent workflows**
+* 📄 **Document AI & intelligent document processing**
+* 🎥 **Multimodal AI applications**
+* 🧩 **AI APIs & AI-powered backend services**
+* 🗄️ **Vector search & knowledge systems**
+* 📊 **AI data & processing pipelines**
+* ☁️ **Cloud-based AI applications**
+* 🚀 **Production AI systems & deployments**
 
----
+My goal is not simply to connect an LLM to an application.
 
-# 🛠️ Technology Stack
-
-## 💻 Backend Engineering
-
-### Languages
-
-![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge\&logo=csharp\&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge\&logo=databricks\&logoColor=white)
-
-### Frameworks & Platforms
-
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge\&logo=dotnet\&logoColor=white)
-![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge\&logo=dotnet\&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge\&logo=fastapi\&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge\&logo=django\&logoColor=white)
-
-My backend work typically involves:
-
-* RESTful API architecture
-* GraphQL
-* WebSockets
-* Background processing
-* Asynchronous programming
-* Microservices
-* API integrations
-* Authentication & authorization
-* Business logic
-* Distributed services
-* Performance optimization
-* Data processing
-* Error handling and observability
+I focus on making AI systems **useful, reliable, measurable, scalable, cost-efficient, and production-ready**.
 
 ---
 
-# ☁️ Cloud & Infrastructure
+# 🤖 AI Technology Stack
 
-I have experience designing and deploying applications across **AWS and Microsoft Azure**, with a strong focus on cloud-native architectures.
+## 🧠 Generative AI & LLMs
+
+* OpenAI
+* Anthropic Claude
+* Google Gemini
+* Large Language Models
+* Prompt Engineering
+* Structured Outputs
+* Function Calling
+* Tool Calling
+* Streaming
+* Context Management
+* Model Selection
+* AI API Integration
+* LLM Cost Optimization
+* LLM Evaluation
+
+---
+
+## 🔎 RAG & Knowledge Systems
+
+* Retrieval-Augmented Generation
+* Semantic Search
+* Vector Search
+* Hybrid Search
+* Embeddings
+* Document Chunking
+* Metadata Filtering
+* Reranking
+* Knowledge Bases
+* Context Retrieval
+* Citation & Grounding
+* Retrieval Evaluation
+
+### Vector & Search Technologies
+
+* PostgreSQL + pgvector
+* Qdrant
+* Pinecone
+* Weaviate
+* Elasticsearch / OpenSearch
+* Vector Embeddings
+
+A typical RAG architecture I work with:
+
+```text
+Documents
+    ↓
+Document Processing
+    ↓
+Chunking
+    ↓
+Embeddings
+    ↓
+Vector Database
+    ↓
+Retrieval
+    ↓
+Reranking
+    ↓
+LLM
+    ↓
+Grounded Response
+```
+
+---
+
+# 🧠 AI Agents & Agentic Systems
+
+I’m particularly interested in building AI systems that can do more than generate text.
+
+Areas I work with include:
+
+* AI Agents
+* Agentic Workflows
+* Tool Calling
+* Function Calling
+* Multi-step Reasoning
+* Agent Memory
+* State Management
+* Human-in-the-loop Workflows
+* Multi-agent Architectures
+* Autonomous Task Execution
+* Agent Evaluation
+* Guardrails
+* Failure Recovery
+
+Modern AI agent technologies:
+
+* LangGraph
+* LangChain
+* LlamaIndex
+* OpenAI Agents
+* Custom Agent Architectures
+
+Example:
+
+```text
+User Request
+      ↓
+AI Agent
+      ↓
+Understand Task
+      ↓
+Plan
+      ↓
+Retrieve Information
+      ↓
+Call Tools / APIs
+      ↓
+Process Results
+      ↓
+Validate
+      ↓
+Final Response
+```
+
+---
+
+# 💬 AI Chatbots
+
+I build conversational AI systems for:
+
+* Customer support
+* Internal company assistants
+* Knowledge-base chatbots
+* Document assistants
+* AI search
+* Enterprise copilots
+* Workflow automation
+* Domain-specific AI assistants
+
+Typical architecture:
+
+```text
+User
+ ↓
+Chat Interface
+ ↓
+AI API
+ ↓
+Conversation / Agent Layer
+ ↓
+RAG / Tools / Knowledge Base
+ ↓
+LLM
+ ↓
+Response Validation
+ ↓
+User
+```
+
+---
+
+# 📄 Document AI
+
+I’m interested in using AI to turn unstructured information into useful, searchable, structured data.
+
+Examples include:
+
+* PDF understanding
+* Document extraction
+* Intelligent document processing
+* OCR pipelines
+* Contract analysis
+* Knowledge extraction
+* Document classification
+* Summarization
+* Question answering
+* Semantic document search
+
+---
+
+# 👁️ Multimodal AI
+
+Modern AI is moving beyond text.
+
+Areas I work with and explore include:
+
+* Text + Image AI
+* Vision-Language Models
+* Image Understanding
+* PDF + Vision
+* Audio + LLMs
+* Speech-to-Text
+* Text-to-Speech
+* Video Understanding
+* Multimodal Agents
+
+The goal is to build AI applications that can understand and work with different types of real-world information.
+
+---
+
+# 🐍 AI Engineering with Python
+
+Python is my primary language for AI engineering.
+
+### Technologies
+
+* Python
+* FastAPI
+* Pydantic
+* Async Python
+* SQLAlchemy
+* Pytest
+* NumPy
+* Pandas
+* PyTorch
+* Scikit-learn
+
+I use Python to build:
+
+* AI APIs
+* LLM applications
+* RAG pipelines
+* AI agents
+* Data processing systems
+* AI automation
+* Model integrations
+* Background processing systems
+
+---
+
+# 🏗️ AI Application Architecture
+
+AI applications still need strong engineering underneath them.
+
+I design systems around:
+
+* AI APIs
+* Service-oriented architectures
+* Async processing
+* Background workers
+* Event-driven workflows
+* Queues
+* Databases
+* Caching
+* Authentication
+* External APIs
+* Observability
+
+A typical production AI architecture might look like:
+
+```text
+Frontend
+    ↓
+AI Application API
+    ↓
+AI Orchestration Layer
+    ↓
+ ┌───────────────┬───────────────┐
+ ↓               ↓               ↓
+LLM             RAG            AI Tools
+ ↓               ↓               ↓
+Model APIs   Vector DB       External APIs
+ └───────────────┴───────────────┘
+                ↓
+           Data Layer
+                ↓
+          Cloud Infrastructure
+```
+
+My backend experience allows me to build the infrastructure around AI rather than treating AI as an isolated API call.
+
+---
+
+# ☁️ AI & Cloud
+
+I have experience deploying cloud-based applications across **AWS and Microsoft Azure**.
 
 ## AWS
-
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge\&logo=amazonaws\&logoColor=white)
 
 * EC2
 * Lambda
@@ -90,128 +321,39 @@ I have experience designing and deploying applications across **AWS and Microsof
 * EFS
 * IoT Core
 * IoT Greengrass
-* Cloud-based application architectures
+* CloudWatch
+* Cloud-based AI architectures
 
 ## Azure
 
-![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge\&logo=microsoftazure\&logoColor=white)
-
+* Azure OpenAI
 * Azure Functions
 * Azure App Services
-* Azure AD
+* Azure AD / Entra ID
 * Azure SQL
 * Blob Storage
 * Event Grid
 * Azure Synapse
 * Azure Service Bus
-* Cloud-based data processing
+* Cloud-based AI & data processing
 
 ---
 
-# 🏗️ Architecture & Engineering
+# 🗄️ AI Data & Knowledge Systems
 
-I’m particularly interested in designing systems that remain maintainable as they grow.
+AI is only as useful as the data it can access.
 
-### Architecture Patterns
+I work with:
 
-* Microservices Architecture
-* Modular Monoliths
-* Event-Driven Architecture
-* Distributed Systems
-* Serverless Architecture
-* REST-based Services
-* GraphQL
-* Message-Based Communication
-* Asynchronous Processing
-* Background Workers
-* API Gateway Architecture
-
-### Engineering Principles
-
-```text
-Clean Architecture
-        ↓
-Separation of Concerns
-        ↓
-Well-defined APIs
-        ↓
-Testable Business Logic
-        ↓
-Reliable Data Access
-        ↓
-Observability
-        ↓
-Automated Deployment
-        ↓
-Production Reliability
-```
-
-I care about more than simply making software work.
-
-I focus on:
-
-**Correctness → Performance → Security → Maintainability → Scalability → Observability**
-
----
-
-# 🤖 AI-Powered Engineering
-
-AI is becoming an increasingly important part of modern software engineering, and I’m particularly interested in applying AI where it creates measurable value.
-
-My interests include:
-
-* AI-powered backend services
-* LLM integrations
-* AI automation
-* Intelligent workflows
-* AI-assisted developer tooling
-* Natural language interfaces
-* AI-driven data processing
-* Intelligent decision-support systems
-* AI + traditional backend architectures
-* AI APIs and third-party model integrations
-
-I see AI as another layer in the software architecture rather than something that replaces good engineering.
-
-A typical AI-powered system might look like:
-
-```text
-User / Application
-        ↓
-API Gateway
-        ↓
-Backend Service
-        ↓
-Business Logic
-        ↓
-AI / ML Service
-        ↓
-Data / Knowledge Layer
-        ↓
-Response Processing
-        ↓
-Application
-```
-
-The interesting engineering challenge is making these systems **reliable, secure, observable, cost-efficient, and production-ready**.
-
----
-
-# 📊 Data & High-Volume Systems
-
-I enjoy working with systems where data volume, query performance, latency, and reliability actually matter.
-
-Experience includes:
-
-* Large datasets
-* SQL optimization
 * PostgreSQL
 * SQL Server
 * Redis
 * DynamoDB
-* NoSQL systems
+* NoSQL
+* pgvector
+* Vector databases
+* Large datasets
 * ETL pipelines
-* Data transformation
 * Parquet
 * Apache Arrow
 * AWS Glue
@@ -220,35 +362,56 @@ Experience includes:
 * PySpark
 * S3-based data architectures
 
-I’m particularly interested in the engineering trade-offs between:
+I’m particularly interested in building the connection between:
 
 ```text
-Latency
-   ↕
-Throughput
-   ↕
-Storage
-   ↕
-Cost
-   ↕
-Consistency
-   ↕
-Scalability
+Data
+ ↓
+Processing
+ ↓
+Knowledge
+ ↓
+Retrieval
+ ↓
+AI
+ ↓
+Action
 ```
-
-The right architecture depends on the problem.
 
 ---
 
-# 🚀 Featured Engineering Projects
+# ⚙️ AI Automation
+
+One of the areas I find most interesting is replacing repetitive workflows with intelligent AI systems.
+
+Examples:
+
+* AI-powered data processing
+* Automated document workflows
+* Email classification
+* Information extraction
+* AI research assistants
+* Intelligent customer support
+* Automated reporting
+* API-driven AI workflows
+* AI-powered business operations
+* Agent-based automation
+
+The goal is not to automate everything with AI.
+
+The goal is to identify where AI can remove unnecessary manual work and create measurable value.
+
+---
+
+# 🚀 Featured Projects
 
 ## 🏏 Cricket Simulator
 
 ### AI-powered cricket simulation and shot evaluation
 
-An AI-based cricket simulator designed to evaluate cricket shots using machine learning and natural-language processing concepts.
+An AI-based cricket simulator designed around cricket-shot evaluation using machine learning and natural-language processing concepts.
 
-**Technologies**
+### Technologies
 
 * Python
 * CNN
@@ -264,9 +427,9 @@ An AI-based cricket simulator designed to evaluate cricket shots using machine l
 
 A cloud-based platform designed to help European industries understand, track, and reduce their carbon footprint.
 
-The platform combines backend services, cloud infrastructure, computational processing, and modern frontend technologies.
+The platform combines computational processing, cloud infrastructure, APIs, integrations, and modern application architecture.
 
-### Architecture & Technologies
+### Technologies
 
 * C#
 * .NET Core
@@ -276,11 +439,9 @@ The platform combines backend services, cloud infrastructure, computational proc
 * API Gateway
 * MQTT
 * TDE
-* Cloud-based services
+* Cloud Services
 
-The interesting part of this system was not just building APIs.
-
-It involved connecting multiple components into a platform capable of handling complex calculations, integrations, and production workloads.
+The project involved connecting multiple services into a platform capable of handling complex calculations, integrations, and production workloads.
 
 ---
 
@@ -298,7 +459,7 @@ A cloud platform focused on railway and vehicle systems with real-time monitorin
 * CI/CD
 * Kubernetes
 
-The project involved working with enterprise-grade systems where reliability, authentication, deployment automation, and service architecture were critical.
+The project involved enterprise-grade systems where reliability, authentication, deployment automation, and service architecture were critical.
 
 ---
 
@@ -315,15 +476,15 @@ The system connected software services with physical devices and digital display
 * AWS IoT Greengrass
 * MQTT
 * Raspberry Pi
-* Cloud services
+* Cloud Services
 
-This type of architecture required communication between cloud services, edge devices, and physical infrastructure.
+This project involved communication between cloud services, edge devices, and physical infrastructure.
 
 ---
 
 # 🧑‍💼 HRMS – Human Resource Management System
 
-A full-stack enterprise HR platform covering areas such as:
+A full-stack enterprise HR platform covering:
 
 * Employee management
 * Payroll
@@ -339,8 +500,6 @@ A full-stack enterprise HR platform covering areas such as:
 * React
 * AWS EC2
 * AWS RDS
-
-The architecture combined multiple backend services with a web-based frontend and cloud infrastructure.
 
 ---
 
@@ -361,22 +520,171 @@ The project involved real-time communication and asynchronous cloud-based proces
 
 ---
 
-# 🔥 Engineering Interests
+# 🧪 AI Reliability & Evaluation
 
-I'm especially interested in the following areas:
+AI applications need more than good prompts.
+
+I care about what happens when:
+
+* The model gives an incorrect answer
+* Retrieved context is irrelevant
+* Documents contain conflicting information
+* An external API fails
+* The model times out
+* Token usage becomes expensive
+* User input is unexpected
+* An agent gets stuck in a loop
+* A workflow produces an invalid result
+* Production traffic increases
+
+Areas I focus on:
+
+* LLM evaluation
+* RAG evaluation
+* Retrieval quality
+* Grounding
+* Hallucination reduction
+* Prompt/version management
+* Structured outputs
+* Guardrails
+* Error handling
+* Observability
+* Cost monitoring
+* Latency monitoring
+* Failure recovery
+
+---
+
+# 🔄 AI Deployment & DevOps
+
+Production AI requires reliable infrastructure.
+
+Technologies I work with include:
+
+* Docker
+* Kubernetes
+* Terraform
+* GitHub Actions
+* Jenkins
+* Azure DevOps
+* CI/CD
+* Linux
+* AWS
+* Azure
+
+Typical deployment flow:
+
+```text
+Code
+ ↓
+Tests
+ ↓
+Build
+ ↓
+Container
+ ↓
+CI/CD
+ ↓
+Cloud Deployment
+ ↓
+Monitoring
+ ↓
+Evaluation
+ ↓
+Continuous Improvement
+```
+
+---
+
+# ⚡ AI Performance & Cost Optimization
+
+AI systems introduce new performance and cost challenges.
+
+I pay attention to:
+
+* Model latency
+* Token usage
+* API costs
+* Context size
+* Retrieval latency
+* Vector search performance
+* Database queries
+* Caching
+* Streaming
+* Batch processing
+* Async execution
+* Model selection
+
+The fastest or largest model is not always the best model.
+
+The right architecture balances:
+
+```text
+Quality
+   ↕
+Latency
+   ↕
+Cost
+   ↕
+Accuracy
+   ↕
+Scalability
+```
+
+---
+
+# 🔐 AI Security
+
+AI applications introduce additional security considerations.
+
+Areas I care about include:
+
+* Authentication
+* Authorization
+* Secure APIs
+* Secrets management
+* Input validation
+* Prompt injection
+* Data leakage
+* Secure tool execution
+* Access-controlled knowledge bases
+* PII protection
+* Secure cloud deployments
+
+AI systems should be designed with security from the beginning.
+
+---
+
+# 💻 Supporting Backend Technologies
+
+Although my primary positioning is **AI Engineering**, strong AI products still require reliable application infrastructure.
 
 ### Backend
 
 ```text
-.NET
 Python
 FastAPI
-Django
-REST
+.NET
+C#
+Node.js
+REST APIs
 GraphQL
 WebSockets
 Microservices
-Distributed Systems
+Async Processing
+Background Workers
+```
+
+### Databases
+
+```text
+PostgreSQL
+SQL Server
+Redis
+DynamoDB
+NoSQL
+pgvector
+Vector Databases
 ```
 
 ### Cloud
@@ -385,253 +693,106 @@ Distributed Systems
 AWS
 Azure
 Serverless
-Cloud Architecture
-Infrastructure
-CI/CD
 Docker
 Kubernetes
 Terraform
+CI/CD
 ```
 
-### Data
-
-```text
-PostgreSQL
-SQL Server
-Redis
-DynamoDB
-NoSQL
-ETL
-PySpark
-Parquet
-Athena
-Synapse
-```
-
-### AI
-
-```text
-LLM Applications
-AI APIs
-AI Automation
-Intelligent Workflows
-AI-powered Backend Systems
-Machine Learning
-NLP
-Computer Vision
-```
+These technologies support the AI systems I build rather than being the primary focus.
 
 ---
 
-# 🧪 Testing & Reliability
+# 🧠 How I Approach AI Problems
 
-Production software isn't finished when the happy path works.
-
-I care about how a system behaves when:
-
-* Traffic increases
-* Dependencies fail
-* Data becomes inconsistent
-* Requests arrive concurrently
-* Services become unavailable
-* Queues grow
-* Queries become expensive
-* External APIs fail
-* Infrastructure restarts
-* Unexpected input reaches the system
-
-My testing experience includes:
-
-* Unit Testing
-* Integration Testing
-* API Testing
-* XUnit
-* Pytest
-* Mocking
-* Edge-case testing
-* Failure scenarios
-* Regression testing
-
----
-
-# 🔄 CI/CD & DevOps
-
-I believe deployment should be an engineering process rather than a manual ritual.
-
-Tools and technologies I've worked with include:
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge\&logo=kubernetes\&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge\&logo=terraform\&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge\&logo=githubactions\&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge\&logo=jenkins\&logoColor=white)
-
-* Docker
-* Kubernetes
-* Jenkins
-* Azure DevOps
-* GitHub Actions
-* Terraform
-* Linux / Unix
-* CI/CD pipelines
-* Cloud deployments
-
----
-
-# ⚡ Performance Engineering
-
-One of my favorite parts of backend engineering is finding the bottleneck.
-
-When a system is slow, I don't immediately add more infrastructure.
-
-I ask:
-
-```text
-Where is the latency coming from?
-
-        ↓
-
-CPU?
-Memory?
-Database?
-Network?
-Disk I/O?
-Serialization?
-Lock contention?
-External API?
-Query plan?
-Architecture?
-```
-
-Then I work backward from measurements rather than assumptions.
-
-Areas I work with include:
-
-* API latency
-* Database optimization
-* Query performance
-* Caching
-* Async processing
-* Batch processing
-* Connection management
-* Distributed workloads
-* High-throughput APIs
-* Resource optimization
-
----
-
-# 🔐 Security Mindset
-
-Backend systems often sit directly between users, businesses, data, and infrastructure.
-
-Security therefore needs to be part of the architecture.
-
-Areas I work with include:
-
-* Authentication
-* Authorization
-* Azure AD
-* Secure APIs
-* Secrets management
-* Input validation
-* Secure database access
-* API security
-* Encryption
-* Secure cloud deployments
-
----
-
-# 🌐 Frontend
-
-Although my primary focus is backend engineering, I can work across the stack when required.
-
-### Frontend Technologies
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
-
-* React.js
-* JavaScript
-* HTML
-* CSS
-* Tailwind CSS
-* Chakra UI
-* Figma
-* Adobe XD
-
-My preferred approach is to keep the frontend focused on presentation and user experience while keeping business logic and complex processing where it belongs: the backend.
-
----
-
-# 🧩 How I Approach Engineering Problems
-
-I generally approach a complex problem through a few simple stages.
+I generally approach an AI problem through a few stages.
 
 ### 01 — Understand
 
-First, understand the actual problem rather than immediately choosing a technology.
+First, understand what the AI actually needs to accomplish.
 
-### 02 — Decompose
+### 02 — Identify the AI Pattern
 
-Break the problem into:
+Determine whether the problem needs:
 
 ```text
-Requirements
-↓
-Services
-↓
-Data
-↓
-Interfaces
-↓
-Dependencies
-↓
-Failure Scenarios
+LLM
+RAG
+Agent
+Automation
+Classification
+Extraction
+Computer Vision
+Multimodal AI
+Traditional Software
 ```
+
+Not every problem needs an agent or an LLM.
 
 ### 03 — Design
 
-Choose the simplest architecture that can satisfy the requirements.
+Choose the simplest architecture that can reliably solve the problem.
 
 ### 04 — Build
 
-Implement clean, testable, maintainable components.
+Develop the AI workflow, integrations, APIs, data layer, and user experience.
 
-### 05 — Measure
+### 05 — Evaluate
 
-Use logs, metrics, profiling, and real behavior to identify bottlenecks.
+Measure:
+
+* Accuracy
+* Retrieval quality
+* Latency
+* Cost
+* Reliability
+* User experience
 
 ### 06 — Improve
 
-Optimize only where optimization actually matters.
+Iterate based on real-world results rather than assumptions.
 
 ---
 
-# 🧠 Engineering Philosophy
+# 🧠 AI Engineering Philosophy
 
 ```text
-Simple systems are easier to understand.
+Start with the problem.
 
-Well-defined boundaries are easier to maintain.
+        ↓
 
-Measured performance beats assumed performance.
+Choose the right AI pattern.
 
-Good architecture makes change cheaper.
+        ↓
 
-Tests protect behavior.
+Ground AI in reliable data.
 
-Automation reduces human error.
+        ↓
 
-Observability turns production problems into engineering problems.
+Keep outputs structured.
 
-AI is powerful, but good engineering still matters.
+        ↓
+
+Evaluate real-world behavior.
+
+        ↓
+
+Monitor production.
+
+        ↓
+
+Optimize quality, latency and cost.
+
+        ↓
+
+Keep improving.
 ```
+
+> **Good AI engineering is not just about making an LLM work. It's about making the entire system work.**
 
 ---
 
-## 📊 GitHub Analytics
+# 📊 GitHub Analytics
 
 <div align="center">
 
@@ -647,25 +808,30 @@ AI is powerful, but good engineering still matters.
 <img src="https://github-profile-trophy.vercel.app/?username=noumannbaig&theme=flat&no-frame=true&no-bg=true&margin-w=8" />
 
 </div>
+
 ---
 
 # 💻 Current Focus
 
-I'm currently interested in building and exploring:
+I'm currently focused on:
 
 ```text
-AI + Backend Engineering
+LLM Applications
         +
-Cloud-Native Architecture
+RAG Systems
         +
-Distributed Systems
+AI Agents
         +
-Data-Intensive Applications
+AI Automation
         +
-Developer Automation
+Multimodal AI
+        +
+AI Data Pipelines
+        +
+Production AI Infrastructure
 ```
 
-Especially systems where **AI, APIs, cloud infrastructure, and data processing come together**.
+Especially systems where **AI, real-world data, APIs, cloud infrastructure, and intelligent workflows come together.**
 
 ---
 
@@ -678,21 +844,23 @@ Especially systems where **AI, APIs, cloud infrastructure, and data processing c
 
 # 🤝 Let's Build Something
 
-I'm interested in working on challenging engineering problems involving:
+I'm interested in challenging problems involving:
 
-* Backend systems
-* AI integrations
-* Cloud architecture
-* Microservices
-* APIs
-* Distributed systems
-* Data platforms
-* Automation
-* SaaS products
-* Enterprise applications
-* Real-time applications
+* LLM Applications
+* RAG
+* AI Agents
+* Generative AI
+* AI Automation
+* AI Chatbots
+* Multimodal AI
+* Document AI
+* AI SaaS Products
+* AI APIs
+* Intelligent Workflows
+* AI Data Systems
+* Production AI Infrastructure
 
-If you're building something interesting, I'd be happy to talk.
+If you're building an AI product, I'd be happy to talk.
 
 ---
 
@@ -718,8 +886,8 @@ If you're building something interesting, I'd be happy to talk.
 
 <div align="center">
 
-### ⚡ Build. Automate. Scale. Repeat.
+### ⚡ Build. Reason. Automate. Evolve.
 
-**Backend Engineering • Cloud • AI • Distributed Systems**
+**AI Engineering • LLMs • RAG • AI Agents • Generative AI**
 
 </div>
